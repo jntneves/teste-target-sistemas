@@ -63,7 +63,7 @@ public class SegundoDesafio {
 }
 ```
 
-**RESPOSTA:** No inicio do programa temos a inicialização de duas variáveis "previousNumber" e "currentNumber" para armazenar os dois primeiros números da sequência de Fibonacci. Logo em sequida, o programa irá ler um número que será fornecido pelo usuário utilizando a classe Scanner. Um loop while será executado para calcular a sequência de Fibonacci até que o número atual seja maior ou igual ao número fornecido pelo usuário, e uma variável "nextNumber" será criada para calcular o próximo número na sequência. Logo após calcular a sequência de Fibonacci, o programa verifica se o número fornecido pelo usuário é igual ao número atual da sequência. Se for igual, ele exibe uma mensaghem informando que o número pertence à sequência de Fibonacci. Caso contrário, ele exibe uma mensagem informando que número não pertence à sequência de Fibonacci.
+**RESPOSTA:** No início do programa temos a inicialização de duas variáveis "previousNumber" e "currentNumber" para armazenar os dois primeiros números da sequência de Fibonacci. Logo em sequida, o programa irá ler um número que será fornecido pelo usuário utilizando a classe Scanner. Um loop while será executado para calcular a sequência de Fibonacci até que o número atual seja maior ou igual ao número fornecido pelo usuário, e uma variável "nextNumber" será criada para calcular o próximo número na sequência. Logo após calcular a sequência de Fibonacci, o programa verifica se o número fornecido pelo usuário é igual ao número atual da sequência. Se for igual, ele exibe uma mensagem informando que o número pertence à sequência de Fibonacci. Caso contrário, ele exibe uma mensagem informando que número não pertence à sequência de Fibonacci.
 
 ---
 <br>
