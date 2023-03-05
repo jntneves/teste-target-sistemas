@@ -76,7 +76,7 @@ public class SegundoDesafio {
 
 **b)** 2, 4, 8, 16, 32, 64, ____
 
-**RESPOSTA:** Cada número da sequência é igual ao anterior multiplicado por 2. Deste modo, o próximo número é igual a 64 x 2 = 128.
+**RESPOSTA:** Cada número da sequência é igual ao anterior multiplicado por 2, iniciando em 2. Deste modo, o próximo número é igual a 64 x 2 = 128.
 
 **c)** 0, 1, 4, 9, 16, 25, 36, ____
 
