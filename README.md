@@ -23,7 +23,7 @@ imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
 <br>
 <br>
-**RESPOSTA:** Primeiro foram inicializadas 3 variáveis: "INDICE" com valor 13 (que define o limite superior da soma, ou seja, até que número a soma deve ser realizada), "SOMA" (que armazena a soma dos números 1 a "INDICE") e "K" (que é utilizada como uma variável auxilar para iterar os números no loop) com valor 0. Em seguida, um loop é executado enquanto "K" for menor que o "INDICE" (13). Em cada iteração do loop, "K" recebe a soma de "K" + 1 e logo após a variável "SOMA" recebe a soma de "SOMA" + "K". Por fim, o valor final (91) será exibido na tela.
+**RESPOSTA:** Primeiro foram inicializadas 3 variáveis: "INDICE" com valor 13 (que define o limite superior da soma, ou seja, até que número a soma deve ser realizada), "SOMA" (que armazena a soma dos números 1 a "INDICE") e "K" (que é utilizada como uma variável auxiliar para iterar os números no loop) com valor 0. Em seguida, um loop é executado enquanto "K" for menor que o "INDICE" (13). Em cada iteração do loop, "K" recebe a soma de "K" + 1 e logo após a variável "SOMA" recebe a soma de "SOMA" + "K". Por fim, o valor final (91) será exibido na tela.
 
 ---
 <br>
